@@ -41,7 +41,7 @@
   box-sizing: border-box; }
   @media(max-width:900px){
   .container1{
-    background-image: url(../images/onde-realizar-minha-reuniao-de-negocios\(3\).png);
+    background-image: url(../images/back4.jpg);
     background-position: center;
     background-size: cover;
     
@@ -57,6 +57,31 @@
 }
 .btn.btn-primary{
   background-color: #F2A341 !important;
+  margin-left: 40px;
+}
+.nav-item a{
+  color: #fff !important;
+
+}
+.package-program:after{
+  background-color: #F2A341 !important;
+
+}
+.testimony-wrap .quote{
+  background-color: #F2A341 !important;
+
+}
+#section-counter .overlay{
+  background-color: #F2A341 !important;
+
+}
+.services .icon{
+  background-color: #f5d0a3 !important;
+
+}
+.services .icon span{
+  color: #000 !important;
+
 }
 
 .do-list li span{
@@ -70,13 +95,19 @@ p{
 
 }
 a{
-  color: #023799 !important;
+  color: #000 !important;
   
 }
-h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5{
+ h3, h4, h5,  .h2, .h3, .h4, .h5{
   color: #000 !important;
 
 }
+.mb-55 {
+  color: #fff !important;
+  margin-left: 30px;
+  
+}
+
 .block-7 .price sup{
   color: #F2A341 !important;
 
@@ -104,8 +135,15 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5{
   color: #fff !important;
 
 }
+@font-face {
+  font-family: "Roboto Mono", monoespaço !important;
+  src:  
+ url('https://fonts.googleapis.com/css2?family=Montserrat+Subrayada:wght@400;700&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap')
+  
+}
 html {
-  font-family: sans-serif;
+ 
+  font-family: "Montserrat Subrayada", sans-serif !important;
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -120,7 +158,8 @@ article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, s
 
 body {
   margin: 0;
-  font-family: "Work Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: "Montserrat Subrayada", sans-serif !important;
+
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
