@@ -39,7 +39,71 @@
 *::after {
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
+  @media(max-width:900px){
+  .container1{
+    background-image: url(../images/onde-realizar-minha-reuniao-de-negocios\(3\).png);
+    background-position: center;
+    background-size: cover;
+    
+  }
+  .hero-wrap .slider-text h1{
+    font-size: 20px !important;
+  }
+  .hero-wrap .slider-text h{
+    font-weight: 700px;
+   
 
+  }
+}
+.btn.btn-primary{
+  background-color: #F2A341 !important;
+}
+
+.do-list li span{
+  color: #F2A341 !important;
+
+
+}
+p{
+  color: #F2A341 !important;
+
+
+}
+a{
+  color: #023799 !important;
+  
+}
+h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5{
+  color: #000 !important;
+
+}
+.block-7 .price sup{
+  color: #F2A341 !important;
+
+}
+.block-7 .price .number{
+  color: #F2A341 !important;
+
+}
+.blog-entry span.day{
+  color: #F2A341 !important;
+
+}
+.ftco-footer{
+  background-color: #F2A341 !important;
+
+}
+.final{
+  color: #fff !important;
+}
+.icon-heart{
+  color: #fff !important;
+
+}
+.obg{
+  color: #fff !important;
+
+}
 html {
   font-family: sans-serif;
   line-height: 1.15;
