@@ -22,6 +22,17 @@
 
 }
 
+.col-md-12 {
+  padding: 0 !important;
+  display: none;
+}
+.time{
+  width: 100%;
+  text-align: center;
+}
+
+
+
 
 
 
@@ -63,6 +74,7 @@
   box-sizing: border-box; }
   @media(max-width:900px){
   .container1{
+    width: 100%;
     background-image: url(../images/back4.jpg);
     background-position: center;
     background-size: cover;
@@ -181,6 +193,7 @@ h1{
 }
 #final{
   color: #fff !important;
+
 }
 .icon-heart{
   color: #fff !important;
