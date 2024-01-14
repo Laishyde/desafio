@@ -1,6 +1,9 @@
 
 .ftco-footer-social{
   display: flex;
+  margin-left: 330px;
+  padding: 20px;
+ 
 
 }
 .teste{
@@ -13,6 +16,10 @@
 }
 .testeone{
   margin-left: 130px;
+}
+.location{
+  margin-left: 130px;
+
 }
 
 
