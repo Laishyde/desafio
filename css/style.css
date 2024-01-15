@@ -114,6 +114,11 @@ display: none;
     margin-left: 0;
   
   }
+  h1{
+    margin-left: 30px;
+   color: #fff !important ;
+   display: none;
+  }
   
 
  
@@ -121,7 +126,7 @@ display: none;
 }
 .btn.btn-primary{
   background-color: #F2A341 !important;
-  margin-left: 40px;
+  margin-left: 50px;
 }
 .nav-item a{
   color: #fff !important;
@@ -168,10 +173,12 @@ a{
 }
 h1{
   margin-left: 30px;
+ color: #fff !important ;
 }
 .mb-55 {
   color: #fff !important;
-  margin-left: 30px;
+  margin-left: 20px;
+  font-size: 40px;
   
 }
 
